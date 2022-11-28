@@ -1,3 +1,3 @@
-module github.com/srijanverma04/weather
+module github.com/SrijanVerma04/weather
 
 go 1.19
